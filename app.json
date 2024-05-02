@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/Sawai12/Bhuriyatxt",
+    "repository": "https://github.com/bhuriya12/Bhuriyatxt",
     "success_url": "https://t.me/+Y2K9rQmgzaoyYjBk",
     "stack": "container",
     "env": {
